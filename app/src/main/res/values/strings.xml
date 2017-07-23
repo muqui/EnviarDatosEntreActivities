@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Enviar datos entre actividades</string>
+    <string name="title_activity_main2">Segunda actividad</string>
+</resources>
