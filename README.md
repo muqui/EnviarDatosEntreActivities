@@ -4,3 +4,4 @@
 <p> No olvidar añadir la segunda actividad  al archivo AndroidManifest</p>
 
 
+https://github.com/muqui/EnviarDatosEntreActivities/blob/master/app/manifest.png
