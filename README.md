@@ -5,5 +5,3 @@
 
 </br>
 ![alt text](https://github.com/muqui/EnviarDatosEntreActivities/blob/master/app/manifest.png)
-
-
